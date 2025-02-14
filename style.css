@@ -1,0 +1,26 @@
+#stylecss
+body {
+    background-color: black;
+    color: rgb(41, 245, 5);
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto; 
+    margin-bottom: 10px; /* Vzdialenosť medzi obrázkom a odkazom */
+}
+
+a {
+    display: block;
+    margin-top: 10px; /* Vzdialenosť medzi obrázkom a odkazom */
+    color: rgb(41, 245, 5); /* Upravte farbu odkazu podľa potreby */
+    font-family: Arial, sans-serif;
+}
+div {
+    opacity: 0.5; /* 50% transparent */
+    }
+
+
